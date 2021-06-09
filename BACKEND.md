@@ -10,10 +10,10 @@
  - Помимо установленного плагина, также необходимо правильно организовать файлы, загружаемые в память микроконтроллера. Иерархия файлов на программирующем устройстве выглядит следующим образом:  
  |-- папка проекта  
  &nbsp;&nbsp;&nbsp;|-- папка "data"  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- index.html  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- styles.css  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- favicon.ico  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- logo.png  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- watering.png  
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- и т.д.  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- index.html  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- styles.css  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- favicon.ico  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- logo.png  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- watering.png  
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|-- и т.д.  
  &nbsp;&nbsp;&nbsp;|-- "имя_скетча.ino"  
