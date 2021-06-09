@@ -18,3 +18,14 @@
   ![Фронтальная сторона с другого ракурса](/screenshots/3D_models_screenshots/device_case_2.PNG)
 
   ![Торцевая сторона с панелью подключения питания и внешних модулей](/screenshots/3D_models_screenshots/device_case_3.PNG)
+
+  - Внешний вид 3D модели корпуса теплицы представлена на рисунках ниже:
+  ![Фронтальная часть корпуса теплицы](/screenshots/3D_models_screenshots/farm_box_1.PNG)
+
+  ![Тыльная сторона с другого ракурса](/screenshots/3D_models_screenshots/farm_box_2.PNG)
+
+  ![Торцевая сторона](/screenshots/3D_models_screenshots/farm_box_3.PNG)
+
+  ![Внутрення сторона корпуса теплицы](/screenshots/3D_models_screenshots/farm_box_4.PNG)
+
+  ![Пример сборки каркаса с помощью монтажных уголков](/screenshots/3D_models_screenshots/farm_box_5.PNG)
