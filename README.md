@@ -13,4 +13,8 @@
 
 **3. Медиа-содержимое:**
   - Внешний вид 3D модели корпуса устройства представлена на рисунках ниже:
-  ![Фронтальная часть корпуса устройства](/screenshots/3D_models_screenshots/device_case_1.png)
+  ![Фронтальная часть корпуса устройства](/screenshots/3D_models_screenshots/device_case_1.PNG)
+
+  ![Фронтальная сторона с другого ракурса](/screenshots/3D_models_screenshots/device_case_2.PNG)
+
+  ![Торцевая сторона с панелью подключения питания и внешних модулей](/screenshots/3D_models_screenshots/device_case_3.PNG)
