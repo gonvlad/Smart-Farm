@@ -9,13 +9,13 @@
  - Для загрузки файлов через среду *Arduino IDE* необходимо установить сооветвующий плагин в среду разработки (название плагина - *ESP32 Sketch Data Upload*)
  - Помимо установленного плагина, также необходимо правильно организовать файлы, загружаемые в память микроконтроллера. Иерархия файлов на программирующем устройстве выглядит следующим образом:  
  |-- папка проекта  
- \t|-- папка "data"  
- \t\t|-- index.html  
- \t\t|-- styles.css  
- \t\t|-- favicon.ico  
- \t\t|-- logo.png  
- \t\t|-- watering.png  
- \t\t|-- и т.д.  
- \t|-- "имя_скетча.ino"  
+ &nbsp;&nbsp;|-- папка "data"  
+ &nbsp;&nbsp;&nbsp;&nbsp;|-- index.html  
+ &nbsp;&nbsp;&nbsp;&nbsp;|-- styles.css  
+ &nbsp;&nbsp;&nbsp;&nbsp;|-- favicon.ico  
+ &nbsp;&nbsp;&nbsp;&nbsp;|-- logo.png  
+ &nbsp;&nbsp;&nbsp;&nbsp;|-- watering.png  
+ &nbsp;&nbsp;&nbsp;&nbsp;|-- и т.д.  
+ &nbsp;&nbsp;|-- "имя_скетча.ino"  
 
 **3. Медиа-содержимое:**
